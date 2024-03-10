@@ -24,19 +24,27 @@ Prediction: Finally, an example test image of a cat is loaded, preprocessed, and
 Results:
 After training the model, it achieves a satisfactory accuracy on the test data, demonstrating its ability to effectively classify images of dogs and cats. Additionally, the prediction on a sample test image of a cat yields a probability score, providing insight into the model's confidence in its classification.
 
-Dependencies
+Dependencies:
+
 TensorFlow
+
 Keras
+
 Matplotlib
+
 NumPy
+
 OpenCV
 
 
-Usage
+Usage:
+
 Clone the repository.
+
 Install the required dependencies.
+
 Run the provided code to train the model and make predictions on test images.
 
+Conclusion:
 
-Conclusion
 This project serves as a comprehensive example of building and training a deep learning model for image classification tasks. By leveraging TensorFlow and Keras, it demonstrates the potential of deep learning techniques in accurately categorizing images of dogs and cats. Feel free to explore, modify, and adapt the code for your own image classification projects.
